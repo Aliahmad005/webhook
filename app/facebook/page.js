@@ -1,6 +1,6 @@
 // pages/facebook.js
 
-i// pages/facebook.js
+// pages/facebook.js
 
 import React from 'react';
 
