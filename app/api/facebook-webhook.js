@@ -1,8 +1,6 @@
+// pages/api/facebook-webhook.js
 
-
-import { IncomingMessage, ServerResponse } from 'http';
 import { parse } from 'url';
-import axios from 'axios';
 import bodyParser from 'body-parser';
 
 // Set up bodyParser middleware
